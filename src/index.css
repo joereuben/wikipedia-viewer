@@ -10,7 +10,10 @@ body {
   color: white;
   margin: 20px;
 }
-
+a.me{
+  color: #0cadf8;
+  text-decoration: none;
+}
 button{
   font-family: 'Montserrat', sans-serif;
 }
